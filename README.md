@@ -10,6 +10,6 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
 
 - エラーが出た場合
   - AmongUs.exeのあるフォルダのBepInExの下にLogOutput.txtがあります。正しくロードできているとそのログの途中に以下の様な出力が出ているはずです
-    - [Info   :Extreme Skins] NamePlate Loaded:（ネームプレートの画像名）, from:（ロードしているファイル名）
+    - ```[Info   :Extreme Skins] Visor Loaded:（ネームプレートの画像名）, from:（ロードしているファイル名）```
 
 #### 身内内専用のネームプレートを追加して遊ぶ場合は[Impostor](https://github.com/Impostor/Impostor)等のカスタムサーバーの使用をおすすめします
