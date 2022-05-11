@@ -1,7 +1,23 @@
 {
     "yukieiji":
-        ["lockOn", "magicCircleVisor"],
+        [
+            "lockOn",
+            "magicCircleVisor"
+        ],
     "nekowasa":
-        ["AinuRed", "AinuRedPlus", "amatohfusen", "checkers", "Gattbomb", "HeadOnCat", "lemonsour", "Minidon", "nicolai", "RaimuNoah", "sirusira", "UnionJack"],
+        [
+            "AinuRed",
+            "AinuRedPlus",
+            "amatohfusen",
+            "checkers",
+            "Gattbomb",
+            "HeadOnCat",
+            "lemonsour",
+            "Minidon",
+            "nicolai",
+            "RaimuNoah",
+            "sirusira",
+            "UnionJack"
+        ],
     "updateComitHash": "2dc2df4d589d23eb1159b428c4d2e779ead2aa1f"
 }
