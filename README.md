@@ -13,3 +13,6 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
     - ```[Info   :Extreme Skins] Visor Loaded:（バイザーの画像名）, from:（ロードしているファイル名）```
 
 #### 身内内専用のネームプレートを追加して遊ぶ場合は[Impostor](https://github.com/Impostor/Impostor)等のカスタムサーバーの使用をおすすめします
+
+## バイサーを提供していただいた方々
+- [YJ\*白桜](https://twitter.com/_Sakura_White_)様(ExtremeVisorで使えるようにデータ構造を変更しています(バイザーデータがGNU General Public License v3.0ライセンスのため詳細を記載))
