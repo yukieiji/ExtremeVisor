@@ -5,6 +5,9 @@
     "magicCircleVisor": {
         "11": "\u77b3\u306e\u5965\u306e\u305d\u306e\u5965"
     },
+    "bluefire": {
+        "11": "\u90aa\u773c\u304c\u75bc\u304f\u305c"
+    },
     "HinaHead": {
         "11": "\u30d2\u30ca\u30e1\u30c3\u30c8"
     },
@@ -79,5 +82,11 @@
     },
     "VoidFace": {
         "11": "\u865a\u7121"
+    },
+    "Admin": {
+        "11": "Admin\u4f5c"
+    },
+    "surprised": {
+        "11": "\u9a5a\u6115"
     }
 }

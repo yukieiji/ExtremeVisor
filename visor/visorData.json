@@ -17,7 +17,8 @@
             "nicolai",
             "RaimuNoah",
             "sirusira",
-            "UnionJack"
+            "UnionJack",
+            "bluefire"
         ],
     "Hachiman":
         [
@@ -49,6 +50,10 @@
             "Nemuri",
             "Nyun",
             "tentionmax"
+        ],
+    "Admin":
+        [
+            "surprised"
         ],
     "updateComitHash": "7a181db7e271d4fa918e6e6489c67239fa7f565a"
 }
