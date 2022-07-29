@@ -63,5 +63,10 @@
         [
             "surprised"
         ],
+    "oyakimon":
+        [
+            "oyaki",
+            "onsen"
+        ],
     "updateComitHash": "3048bd37c12da9b96f92ab5d0d44a2d1fcac3e2a"
 }
