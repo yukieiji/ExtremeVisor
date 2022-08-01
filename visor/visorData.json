@@ -70,5 +70,10 @@
             "oyaki",
             "onsen"
         ],
+    "unhappyset":
+        [
+            "graffiti",
+            "Killing"
+        ],
     "updateComitHash": "4d9fe4e5ee2b477fb06cab0a33c1974596b850c6"
 }
