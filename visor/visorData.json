@@ -73,12 +73,36 @@
     "oyakimon":
         [
             "oyaki",
-            "onsen"
+            "onsen",
+            "onore_Jackal",
+            "onore_Impostor",
+            "tinfoil_hat"
         ],
     "unhappyset":
         [
             "graffiti",
             "Killing"
+        ],
+    "karappomon":
+        [
+            "bom_maimai",
+            "beer_maimai",
+            "arumikan_turunoda",
+            "arumikan_zundamon",
+            "arumikan_zundanrg",
+            "arumikan_grape",
+            "arumikan_tea",
+            "arumikan_zunpis",
+            "oyaki_maimai",
+            "short_maimai",
+            "maimai_oyaki_reinoshippo",
+            "maimai_oyaki_zunshippo",
+            "maimai_purin",
+            "mint_maimai",
+        ],
+    "rapu":
+        [
+            "TV"
         ],
     "updateComitHash": "4d604e4aa3a549f16d64dd97d1e4f0b5bfbd2ef1"
 }
