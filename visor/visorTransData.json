@@ -196,5 +196,26 @@
     },
     "mint_maimai": {
         "11": "\u30c1\u30e7\u30b3\u30df\u30f3\u30c8\u30de\u30a4\u30de\u30a4"
+    },
+    "TV": {
+        "11": "TV"
+    },
+    "Brightface": {
+        "11": "\u7167\u308c\u9854(\u4eba\u578b\u5c02\u7528)"
+    },
+    "Businessmen": {
+        "11": "\u4f1a\u793e\u54e1(\u4eba\u578b\u5c02\u7528)"
+    },
+    "supeshio": {
+        "11": "\u30b9\u30da\u5869\u4f5c"
+    },
+    "hige": {
+        "11": "\u3072\u3052"
+    },
+    "Flowey": {
+        "11": "\u4f8b\u306e\u82b1"
+    },
+    "PhotoshopFlowey": {
+        "11": "\u30d5\u30a9\u30c8\u30b7\u30e7\u30c3\u30d7\u30d5\u30e9\u30a6\u30a3\u30fc"
     }
 }
