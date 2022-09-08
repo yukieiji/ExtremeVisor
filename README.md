@@ -16,4 +16,12 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
 
 ## バイサーを提供していただいた方々
 - [猫野和錆](https://twitter.com/neko_wasa)様
-- [YJ\*白桜](https://twitter.com/_Sakura_White_)様(ExtremeVisorで使えるようにデータ構造を変更しています(バイザーデータがGNU General Public License v3.0ライセンスのため詳細を記載))
+- [YJ\*白桜](https://twitter.com/_Sakura_White_)様(ExtremeVisorで使えるようにデータ構造を変更しています(バイザーデータがGNU General Public License v3.0ライセンスのため詳細を記載))-
+- [ひなにい](https://twitter.com/__xxhina)様
+- アンハッピーセット様
+- アドミン様
+- からっぱもん様
+- おやきもん様
+- ラプ様
+- クロドル様
+- Nyayuta様
