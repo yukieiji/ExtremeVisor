@@ -48,8 +48,8 @@ def update_visor_data()-> None:
 
   visor_dir = os.listdir(VISOR_FOLDER)
 
-  visor_dir.remove(VISOR_DATA_FILE)
-  visor_dir.remove(VISOR_OUT_FILE)
+  visor_dir.remove('visorTransData.json')
+  visor_dir.remove('visorData.json')
 
   with open(os.path.join(VISOR_DATA_FILE), mode='w') as visor_json:
     json.dump(
