@@ -49,6 +49,7 @@ def main(target_path : str)-> None:
       visor_out_path.mkdir(parents=True)
 
       shutil.copy(source_path, visor_out_path.joinpath(IDLE_FILE))
+      shutil.copy(license_path, visor_out_path.joinpath(LICENSE_FILE))
 
       with open(visor_out_path.joinpath(INFO_FILE), mode='w') as visor_json:
         json.dump(
