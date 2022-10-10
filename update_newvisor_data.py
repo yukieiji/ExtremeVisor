@@ -53,7 +53,7 @@ def update_visor_data()-> None:
 
   with open(os.path.join(VISOR_DATA_FILE), mode='w') as visor_json:
     json.dump(
-      {VISOR_DATA_DATA_KEY:visor_dir, VISOR_DATA_UPDATE_COMIT_KEY:""},
+      {VISOR_DATA_DATA_KEY:visor_dir, VISOR_DATA_UPDATE_COMIT_KEY:"", "ComitHash":""},
       visor_json, indent=2, ensure_ascii=False)
 
 def main()-> None:
