@@ -8,7 +8,7 @@ OUT_FOLDER = 'new_visor'
 IDLE_FILE = 'idle.png'
 INFO_FILE = 'info.json'
 
-def main(target_path : str)-> None:
+def main(target_path : str, comit_hash : str = '')-> None:
 
   convart_target_dir = pathlib.Path(target_path)
 
@@ -58,9 +58,16 @@ def main(target_path : str)-> None:
             'Name':visor_name,
             'LeftIdle':False,
             'Shader':False,
-            'BehindHat':False
+            'BehindHat':False,
+            'ComitHash':comit_hash
           },
           visor_json, indent=2, ensure_ascii=False)
 
 if __name__ == "__main__":
-  main(sys.argv[1])
+
+  arg = sys.argv
+
+  comit_hash = ''
+  if (len(arg) == 3):
+    comit_hash = arg[2]
+  main(arg[1], comit_hash)

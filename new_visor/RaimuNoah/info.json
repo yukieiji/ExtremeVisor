@@ -3,5 +3,6 @@
   "Name": "RaimuNoah",
   "LeftIdle": false,
   "Shader": false,
-  "BehindHat": false
+  "BehindHat": false,
+  "ComitHash": "a3dbdea7c658d70ae4e8eac9c159e53305057219"
 }
