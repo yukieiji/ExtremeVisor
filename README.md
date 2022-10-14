@@ -13,9 +13,9 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
 {
     "Author": , #製作者名、ローマ字スネークケースで記入、例"yukiEiji"
     "Name": , #スキンの名、ローマ字スネークケースで記入、例"overLoading"
-    "LeftIdle": #True(ある)かFalse(ない)か,
-    "Shader": #これがTrue(オン)の時、一部の色が体の色とシンクロします。シンクロしてほしくない場合はFalse(オフ)に,
-    "BehindHat": #これがTrue(オン)の時、バイザーがハットの後ろになります,
+    "LeftIdle": #true(ある)かfalse(ない)か,
+    "Shader": #これがtrue(オン)の時、一部の色が体の色とシンクロします。シンクロしてほしくない場合はfalse(オフ)に,
+    "BehindHat": #これがtrue(オン)の時、バイザーがハットの後ろになります,
     "comitHash": "" # 記載しなくて大丈夫
 }
 ```
