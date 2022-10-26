@@ -137,6 +137,60 @@
     "SmlieSmlie": {
         "11": "\u7b11\u9854"
     },
+    "live_V": {
+        "11": "\u914d\u4fe1\u4e2d"
+    },
+    "ninshoBadge_V": {
+        "11": "\u8a8d\u8a3c\u30d0\u30c3\u30b8"
+    },
+    "saimin_V": {
+        "11": "\u81ea\u5206\u3078\u50ac\u7720\u8853"
+    },
+    "sairiumu_V": {
+        "11": "\u30b5\u30a4\u30ea\u30a6\u30e0"
+    },
+    "mop_V": {
+        "11": "\u30e2\u30c3\u30d7\u639b\u3051\u3092\u5fd8\u308c\u305a\u306b"
+    },
+    "o2_V": {
+        "11": "\u9178\u7d20\u306f\u3068\u3063\u3066\u304a\u3053\u3046"
+    },
+    "eyemask_V": {
+        "11": "\u79c1\u306f\u5bdd\u3066\u3044\u307e\u305b\u3093"
+    },
+    "usbHacker_V": {
+        "11": "USB\u30cf\u30c3\u30ab\u30fc"
+    },
+    "4gou_V": {
+        "11": "4\u53f7"
+    },
+    "silverShield_V": {
+        "11": "\u9280\u306e\u76fe"
+    },
+    "thinking_V": {
+        "11": "\u60a9\u307f"
+    },
+    "madadesuka_V": {
+        "11": "\u307e\u3060\u3067\u3059\u304b\uff1f"
+    },
+    "breadeat_V": {
+        "11": "\u30d1\u30f3\u306f\u304a\u3044\u3057\u3044"
+    },
+    "handmike_V": {
+        "11": "\u6b4c\u3048"
+    },
+    "pcngus_V": {
+        "11": "\u30ab\u30f3\u30cb\u30f3\u30b0"
+    },
+    "sus_V": {
+        "11": "SUS"
+    },
+    "Arrow_V": {
+        "11": "\u77e2\u5370"
+    },
+    "OldGlass_V": {
+        "11": "\u56db\u89d2\u3044\u9854"
+    },
     "Admin": {
         "11": "Admin\u4f5c"
     },
@@ -145,12 +199,6 @@
     },
     "onsen": {
         "11": "10\u79d2\u3067\u66f8\u3044\u305f"
-    },
-    "onore_Impostor": {
-        "11": "\u304a\u306e\u308c\u30a4\u30f3\u30dd\u30b9\u30bf\u30fc\uff01\u3000\u3053\u306e\u30d0\u30a4\u30b6\u30fc\u306e\u6587\u5b57\u306e\u53cd\u8ee2\u5bfe\u5fdc\u304c\u3067\u304d\u306a\u304b\u3063\u305f\uff01"
-    },
-    "onore_Jackal": {
-        "11": "\u304a\u306e\u308c\u30b8\u30e3\u30c3\u30ab\u30eb\uff01"
     },
     "tinfoil_hat": {
         "11": "\u601d\u8003\u76d7\u8074\u5bfe\u7b56"

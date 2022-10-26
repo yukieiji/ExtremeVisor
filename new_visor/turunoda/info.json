@@ -1,8 +1,8 @@
 {
   "Author": "oyakimon",
-  "Name": "oyaki",
+  "Name": "turunoda",
   "LeftIdle": true,
-  "Shader": false,
+  "Shader": true,
   "BehindHat": false,
   "ComitHash": ""
 }

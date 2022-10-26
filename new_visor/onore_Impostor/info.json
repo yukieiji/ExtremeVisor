@@ -1,7 +1,7 @@
 {
   "Author": "oyakimon",
   "Name": "onore_Impostor",
-  "LeftIdle": false,
+  "LeftIdle": true,
   "Shader": false,
   "BehindHat": false,
   "ComitHash": "a3dbdea7c658d70ae4e8eac9c159e53305057219"
