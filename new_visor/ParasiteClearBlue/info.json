@@ -1,8 +1,9 @@
 {
-    "Author": "UzomuZo",
-    "Name": "Parasite_ClearBlue",
-    "LeftIdle": false,
-    "Shader": false,
-    "BehindHat": false,
-    "comitHash": ""
+  "Author": "UzomuZo",
+  "Name": "Parasite_ClearBlue",
+  "LeftIdle": false,
+  "Shader": false,
+  "BehindHat": false,
+  "comitHash": "",
+  "ComitHash": "d4f06e60e7f826d893539658db464e52544f4677"
 }
