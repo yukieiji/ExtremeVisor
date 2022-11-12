@@ -19,7 +19,7 @@ jobs:
           architecture: 'x64'
       - name: InstallLibrary
         run: pip install openpyxl
-      - name: UpdateTransAndHatData
+      - name: UpdateTransAndVisorData
         run: python update_newvisor_data.py
       - name: GetAllChangeFiles
         id: changed-file
@@ -31,11 +31,11 @@ jobs:
       - name: UpdateTransDataComitHash
         uses: jossef/action-set-json-field@v1
         with:
-          file: hat/hatData.json
+          file: visor/visorData.json
           field: updateComitHash
           value: ${{ steps.update-transdata.outputs.commit_hash }}
-      - name: UpdateHatDataComitHash
-        run: python feat_comit_hash.py ${{ steps.update-transdata.outputs.commit_hash }} ${{ steps.changed-file.outputs.all_changed_and_modified_files }}
+      - name: UpdateVisorDataCommitHash
+        run: python feat_commit_hash.py ${{ steps.update-transdata.outputs.commit_hash }} ${{ steps.changed-file.outputs.all_changed_and_modified_files }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: AutoComit feat:comit hashs
+          commit_message: AutoCommit feat:comit hashs

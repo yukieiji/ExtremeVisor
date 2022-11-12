@@ -20,9 +20,9 @@ def get_visor_dir_name(change_files : List[str]) -> List[str]:
     parent = check_path.parent
     if not parent.is_dir():
       continue
-    hat_name = parent.parts[-1]
-    if not (hat_name in visor_dir):
-      visor_dir.append(hat_name)
+    visor_name = parent.parts[-1]
+    if not (visor_name in visor_dir):
+      visor_dir.append(visor_name)
 
   return visor_dir
 
@@ -40,15 +40,15 @@ def feat_comit_hash(comit_hash: str, visor_name: List[str]):
           visor_info,
           visor_json, indent=2, ensure_ascii=False)
 
-def main(comit_hash: str, change_files: List[str]) -> None:
+def main(commit_hash: str, change_files: List[str]) -> None:
   feat_comit_hash(
-    comit_hash,
+    commit_hash,
     get_visor_dir_name(change_files))
 
 
 if __name__ == "__main__":
-  comit_hash = sys.argv[1]
+  commit_hash = sys.argv[1]
   change_files = sys.argv[2:]
-  print(f"comit_hash: {comit_hash}")
+  print(f"commit_hash: {commit_hash}")
   print(f"change_files : {change_files}")
-  main(comit_hash, change_files)
+  main(commit_hash, change_files)
