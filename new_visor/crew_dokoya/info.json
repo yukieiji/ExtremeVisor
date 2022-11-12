@@ -1,8 +1,9 @@
 {
-    "Author": "kannagi_drive",
-    "Name": "crew_dokoya",
-    "LeftIdle": true,
-    "Shader": false,
-    "BehindHat": false,
-    "comitHash": ""
+  "Author": "kannagi_drive",
+  "Name": "crew_dokoya",
+  "LeftIdle": true,
+  "Shader": false,
+  "BehindHat": false,
+  "comitHash": "",
+  "ComitHash": "b56ef2f9316e2fd822cc7653ea6ac19ae8032bbd"
 }
