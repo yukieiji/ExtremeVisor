@@ -1,8 +1,8 @@
 {
-    "Author": "kannagi_drive",
-    "Name": "imnotimpostar",
+  "Author": "kannagi_drive",
+  "Name": "imnotimpostar",
   "LeftIdle": true,
   "Shader": false,
   "BehindHat": false,
-  "ComitHash": ""
+  "ComitHash": "75a918fc79f80e53f0475d9bd40990a26be4657b"
 }
