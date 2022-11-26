@@ -1,9 +1,8 @@
 {
-  "Author": "kannagi_drive",
-  "Name": "jitouhyou",
-  "LeftIdle": true,
-  "Shader": false,
-  "BehindHat": false,
-  "comitHash": "",
-  "ComitHash": "b56ef2f9316e2fd822cc7653ea6ac19ae8032bbd"
+    "Author": "kannagi_drive",
+    "Name": "owamura",
+    "LeftIdle": true,
+    "Shader": false,
+    "BehindHat": false,
+    "ComitHash": ""
 }
