@@ -51,6 +51,8 @@ def update_visor_data()-> None:
   visor_dir.remove('visorTransData.json')
   visor_dir.remove('visorData.json')
 
+  visor_dir.sort()
+
   with open(os.path.join(VISOR_DATA_FILE), mode='w') as visor_json:
     json.dump(
       {VISOR_DATA_DATA_KEY:visor_dir, VISOR_DATA_UPDATE_COMIT_KEY:""},
