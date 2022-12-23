@@ -14,6 +14,7 @@
     "BlackMesen",
     "BlueEye",
     "BoneEye",
+    "BooFace",
     "Brightface",
     "Businessmen",
     "Dari",
@@ -31,6 +32,7 @@
     "GoldCircletR",
     "GoldCrown",
     "GoodButton_visor",
+    "Guruguru",
     "Gusao",
     "Guwa",
     "HP",
@@ -40,6 +42,7 @@
     "Ikari",
     "ImpMouth",
     "Impostor_dokoya",
+    "Iyagari",
     "Kashiwa_mini",
     "Killing",
     "Kime",
@@ -73,6 +76,7 @@
     "R18",
     "RTA",
     "RaimuNoah",
+    "RamenNoren",
     "Rangeselection",
     "RedEye",
     "Sakura",
@@ -81,6 +85,7 @@
     "TV",
     "UnionJack",
     "VoidFace",
+    "WinkFace",
     "YJBigEye",
     "Zunda_mini",
     "Zunndamon",
@@ -213,5 +218,5 @@
     "utagaimayu",
     "yameyokka"
   ],
-  "updateComitHash": "708183958f682b6e457c64de9f4de4554a673c28"
+  "updateComitHash": ""
 }
