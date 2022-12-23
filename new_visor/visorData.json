@@ -3,6 +3,8 @@
     "1001001",
     "4gou_V",
     "4rehe_visor",
+    "7Cap",
+    "7CapHair",
     "AinuRed",
     "AinuRedPlus",
     "Annkomon",
@@ -24,6 +26,10 @@
     "EyeThunder",
     "Flowey",
     "Gattbomb",
+    "GoldCircletB",
+    "GoldCircletG",
+    "GoldCircletR",
+    "GoldCrown",
     "GoodButton_visor",
     "Gusao",
     "Guwa",
@@ -60,6 +66,8 @@
     "ParasitePurple",
     "ParasiteRed",
     "ParasiteRose",
+    "PhantomMask",
+    "PhantomMask2",
     "PhotoshopFlowey",
     "Poyapoya",
     "R18",
@@ -205,5 +213,5 @@
     "utagaimayu",
     "yameyokka"
   ],
-  "updateComitHash": "18bc7c145df2ea0060177779570f0d01f195294f"
+  "updateComitHash": ""
 }
