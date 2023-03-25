@@ -4,6 +4,21 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
 このリポジトリのライセンスは[こちら](https://github.com/yukieiji/ExtremeVisor/blob/main/LICENSE.md)
 
 ## 新しいバイザーの追加方法
+
+### ExtremeSkins.Generatorを使用する場合
+1. [ここ](https://github.com/yukieiji/ExtremeSkins.Generator/releases/latest)からExtremeSkins.Generatorの最新版をダウンロードする
+  - エディションの違い、よくわからないって方はAllinOneをダウンロードして下さい(LightとAllinOneで機能の違いはありません)
+    - AllinOne : 容量は大きいが何もしなくてもそのまま利用可能
+    - Light : 容量は小さいが別途.NET 6.0 Runtimeのインストールが必要になります
+2. ダウンロードしたZipファイルを適当な場所に展開する
+3. 展開したフォルダの中にある「ExtremeSkins.Generator.exe」をダブルクリックして起動する
+   - 起動しない場合はセキュリティソフトの設定を見直して下さい
+4. 画面の「ExtremeVisor」を選択する
+5. 必要なファイル等を画面に従って用意、選択するする
+   - 画像ファイルの推奨サイズ300×375
+6. エクスポートボタンを押す
+
+### 手動でやる場合
 1. AmongUs.exeのあるフォルダのExtremeVisorフォルダの下に新しいフォルダを作る(ローマ字推奨、日本語等は使用しない)
 2. 以下の名前の画像ファイルを作る、idle.png以外は必要に応じて追加して下さい
    - idle.png : 正面右向き前のレイヤーの画像ファイル(ピクセルサイズ：300×375)
@@ -24,6 +39,9 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
 - エラーが出た場合
   - AmongUs.exeのあるフォルダのBepInExの下にLogOutput.txtがあります。正しくロードできているとそのログの途中に以下の様な出力が出ているはずです
     - ```[Info   :Extreme Skins] Visor Loaded:（バイザーの画像名）, from:（ロードしているファイル名）```
+
+## 他のMODのバイザーをExtremeVisor用に変換したい
+- [ExtremeSkins.Converter](https://github.com/yukieiji/ExtremeSkins.Converter/releases/latest)を使用することで変換できます
 
 #### 身内内専用のネームプレートを追加して遊ぶ場合は[Impostor](https://github.com/Impostor/Impostor)等のカスタムサーバーの使用をおすすめします
 
