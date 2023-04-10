@@ -242,127 +242,196 @@
     "XiuQiShiJian": {
         "11": "\u4f11\u61a9\u6642\u9593"
     },
+    "iyahon": {
+        "11": "\u30a4\u30e4\u30db\u30f3"
+    },
+    "anosangurasu": {
+        "11": "\u3042\u306e\u30b5\u30f3\u30b0\u30e9\u30b9"
+    },
+    "anoheapin": {
+        "11": "\u3042\u306e\u30d8\u30a2\u30d4\u30f3"
+    },
+    "TripleKillPink": {
+        "11": "TripleKill Pink"
+    },
+    "TripleKillGray": {
+        "11": "TripleKill Gray"
+    },
+    "TripleKillMaroon": {
+        "11": "TripleKill Maroon"
+    },
+    "pinkuYutsupoiXiaoYan": {
+        "11": "\u30d4\u30f3\u30af\u7389\u3063\u307d\u3044\u7b11\u9854"
+    },
+    "pinkuYutsupoiQinYan": {
+        "11": "\u30d4\u30f3\u30af\u7389\u3063\u307d\u3044\u5bdd\u9854"
+    },
+    "pinkuYutsupoiuinku": {
+        "11": "\u30d4\u30f3\u30af\u7389\u3063\u307d\u3044\u30a6\u30a3\u30f3\u30af"
+    },
+    "pinkuYutsupoiBeishiiYan": {
+        "11": "\u30d4\u30f3\u30af\u7389\u3063\u307d\u3044\u60b2\u3057\u3044\u9854"
+    },
+    "Admin": {
+        "11": "Admin\u4f5c"
+    },
     "surprised": {
-        "11": "\u843d\u66f8\u304d"
+        "11": "\u9a5a\u6115"
+    },
+    "onsen": {
+        "11": "10\u79d2\u3067\u66f8\u3044\u305f"
     },
     "tinfoil_hat": {
-        "11": "\u30d0\u30af\u30c0\u30f3\u30de\u30a4\u30de\u30a4"
+        "11": "\u601d\u8003\u76d7\u8074\u5bfe\u7b56"
     },
     "graffiti": {
-        "11": "\u3042\u308b\u30df\u30ab\u30f3\uff08\u3064\u308b\u306e\u3060\uff09"
+        "11": "\u843d\u66f8\u304d"
     },
     "Killing": {
-        "11": "\u3042\u308b\u30df\u30ab\u30f3\uff08ZUNDAMON\uff09"
+        "11": "\u6bba\u610f"
     },
     "bom_maimai": {
-        "11": "\u3042\u308b\u30df\u30ab\u30f3\uff08\u30b0\u30ec\u30fc\u30d7\uff09"
+        "11": "\u30d0\u30af\u30c0\u30f3\u30de\u30a4\u30de\u30a4"
     },
     "beer_maimai": {
-        "11": "\u3042\u308b\u30df\u30ab\u30f3\uff08\u304a\u8336\uff09"
+        "11": "\u30d3\u30fc\u30eb\u30de\u30a4\u30de\u30a4"
     },
     "arumikan_turunoda": {
-        "11": "\u3042\u308b\u30df\u30ab\u30f3\uff08\u30ba\u30f3\u30d4\u30b9\uff09"
+        "11": "\u3042\u308b\u30df\u30ab\u30f3\uff08\u3064\u308b\u306e\u3060\uff09"
     },
     "arumikan_zundamon": {
-        "11": "\u30aa\u30e4\u30ad\u30de\u30a4\u30de\u30a4"
+        "11": "\u3042\u308b\u30df\u30ab\u30f3\uff08ZUNDAMON\uff09"
     },
     "arumikan_zundanrg": {
-        "11": "\u3051\u30fc\u304d\u307e\u3044\u307e\u3044"
+        "11": "\u3042\u308b\u30df\u30ab\u30f3\uff08ZUNDANRG\uff09"
     },
     "arumikan_grape": {
-        "11": "\u3057\u3063\u307d\u30d1\u30f3\u5165\u308a\u304a\u3084\u304d\u30de\u30a4\u30de\u30a4"
+        "11": "\u3042\u308b\u30df\u30ab\u30f3\uff08\u30b0\u30ec\u30fc\u30d7\uff09"
     },
     "arumikan_tea": {
-        "11": "\u305a\u3093\u3057\u3063\u307d\u304a\u3084\u304d\u30de\u30a4\u30de\u30a4"
+        "11": "\u3042\u308b\u30df\u30ab\u30f3\uff08\u304a\u8336\uff09"
     },
     "arumikan_zunpis": {
-        "11": "\u30d7\u30ea\u30f3\u30de\u30a4\u30de\u30a4"
+        "11": "\u3042\u308b\u30df\u30ab\u30f3\uff08\u30ba\u30f3\u30d4\u30b9\uff09"
     },
     "oyaki_maimai": {
-        "11": "\u30c1\u30e7\u30b3\u30df\u30f3\u30c8\u30de\u30a4\u30de\u30a4"
+        "11": "\u30aa\u30e4\u30ad\u30de\u30a4\u30de\u30a4"
+    },
+    "short_maimai": {
+        "11": "\u3051\u30fc\u304d\u307e\u3044\u307e\u3044"
     },
     "maimai_oyaki_reinoshippo": {
-        "11": "TV"
+        "11": "\u3057\u3063\u307d\u30d1\u30f3\u5165\u308a\u304a\u3084\u304d\u30de\u30a4\u30de\u30a4"
     },
     "maimai_oyaki_zunshippo": {
-        "11": "\u7167\u308c\u9854(\u4eba\u578b\u5c02\u7528)"
+        "11": "\u305a\u3093\u3057\u3063\u307d\u304a\u3084\u304d\u30de\u30a4\u30de\u30a4"
     },
     "maimai_purin": {
-        "11": "\u4f1a\u793e\u54e1(\u4eba\u578b\u5c02\u7528)"
+        "11": "\u30d7\u30ea\u30f3\u30de\u30a4\u30de\u30a4"
+    },
+    "mint_maimai": {
+        "11": "\u30c1\u30e7\u30b3\u30df\u30f3\u30c8\u30de\u30a4\u30de\u30a4"
     },
     "TV": {
-        "11": "\u3072\u3052"
+        "11": "TV"
+    },
+    "Brightface": {
+        "11": "\u7167\u308c\u9854(\u4eba\u578b\u5c02\u7528)"
     },
     "Businessmen": {
-        "11": "\u4f8b\u306e\u82b1"
+        "11": "\u4f1a\u793e\u54e1(\u4eba\u578b\u5c02\u7528)"
+    },
+    "supeshio": {
+        "11": "\u30b9\u30da\u5869\u4f5c"
     },
     "hige": {
-        "11": "\u5bc4\u751f\u8005"
+        "11": "\u3072\u3052"
     },
     "Flowey": {
-        "11": "\u8d64\u76ee"
+        "11": "\u4f8b\u306e\u82b1"
     },
     "PhotoshopFlowey": {
-        "11": "\u5927\u53e3"
+        "11": "\u30d5\u30a9\u30c8\u30b7\u30e7\u30c3\u30d7\u30d5\u30e9\u30a6\u30a3\u30fc"
     },
     "Parasite": {
-        "11": "\u5bc4\u751f\u8005(\u4e9c\u7a2e)"
+        "11": "\u5bc4\u751f\u8005"
     },
     "Parasite_Green": {
-        "11": "\u5bc4\u751f\u8005(\u9752\u30b9\u30e9\u30a4\u30e0)"
+        "11": "\u5bc4\u751f\u8005(\u7dd1)"
     },
     "RedEye": {
-        "11": "\u5bc4\u751f\u8005(\u7dd1\u30b9\u30e9\u30a4\u30e0)"
+        "11": "\u8d64\u76ee"
     },
     "BigMouth": {
-        "11": "\u5bc4\u751f\u8005(\u7d2b)"
+        "11": "\u5927\u53e3"
     },
     "EyeThunder": {
-        "11": "\u5bc4\u751f\u8005(\u8d64)"
+        "11": "\u773c\u96f7"
     },
     "Parasite_Another": {
-        "11": "\u5bc4\u751f\u82b1"
+        "11": "\u5bc4\u751f\u8005(\u4e9c\u7a2e)"
     },
     "Parasite_ClearBlue": {
-        "11": "7\u306e\u5e3d\u5b50 (\u5358\u4f53)"
+        "11": "\u5bc4\u751f\u8005(\u9752\u30b9\u30e9\u30a4\u30e0)"
     },
     "Parasite_ClearGreen": {
-        "11": "7\u306e\u5e3d\u5b50 (\u9aea\u4ed8\u304d)"
+        "11": "\u5bc4\u751f\u8005(\u7dd1\u30b9\u30e9\u30a4\u30e0)"
     },
     "Parasite_Purple": {
-        "11": "\u91d1\u306e\u30b5\u30fc\u30af\u30ec\u30c3\u30c8(\u9752)"
+        "11": "\u5bc4\u751f\u8005(\u7d2b)"
     },
     "Parasite_Red": {
-        "11": "\u91d1\u306e\u30b5\u30fc\u30af\u30ec\u30c3\u30c8(\u7dd1)"
+        "11": "\u5bc4\u751f\u8005(\u8d64)"
     },
     "Parasite_Rose": {
-        "11": "\u91d1\u306e\u30b5\u30fc\u30af\u30ec\u30c3\u30c8(\u8d64)"
+        "11": "\u5bc4\u751f\u82b1"
     },
     "7Cap": {
-        "11": "\u91d1\u306e\u738b\u51a0"
+        "11": "7\u306e\u5e3d\u5b50 (\u5358\u4f53)"
     },
     "7Cap_with_Hair": {
-        "11": "\u602a\u4eba\u306e\u4eee\u9762(\u534a)"
+        "11": "7\u306e\u5e3d\u5b50 (\u9aea\u4ed8\u304d)"
     },
     "GoldCircletB": {
-        "11": "\u602a\u4eba\u306e\u4eee\u9762(\u5168)"
+        "11": "\u91d1\u306e\u30b5\u30fc\u30af\u30ec\u30c3\u30c8(\u9752)"
+    },
+    "GoldCircletG": {
+        "11": "\u91d1\u306e\u30b5\u30fc\u30af\u30ec\u30c3\u30c8(\u7dd1)"
+    },
+    "GoldCircletR": {
+        "11": "\u91d1\u306e\u30b5\u30fc\u30af\u30ec\u30c3\u30c8(\u8d64)"
     },
     "GoldCrown": {
-        "11": "\u3042\u3093\u3053\u3082\u3093"
+        "11": "\u91d1\u306e\u738b\u51a0"
     },
     "PhantomMask": {
-        "11": "\u56db\u30b3\u30de\u305a\u3093\u3061\u3083\u3093192\u8a71"
+        "11": "\u602a\u4eba\u306e\u4eee\u9762(\u534a)"
     },
     "PhantomMask2": {
-        "11": "\u304b\u3057\u308f\u3082\u3061"
+        "11": "\u602a\u4eba\u306e\u4eee\u9762(\u5168)"
     },
     "Annkomon": {
-        "11": "\u305a\u3093\u3060"
+        "11": "\u3042\u3093\u3053\u3082\u3093"
     },
     "Guwa": {
-        "11": "\u305a\u3093\u3060\u3082\u3093"
+        "11": "\u56db\u30b3\u30de\u305a\u3093\u3061\u3083\u3093192\u8a71"
+    },
+    "Kashiwa_mini": {
+        "11": "\u304b\u3057\u308f\u3082\u3061"
     },
     "OhagiA_mini": {
+        "11": "\u304a\u306f\u304e\uff08\u3042\u3093\u3053\uff09"
+    },
+    "OhagiK_mini": {
+        "11": "\u304a\u306f\u304e\uff08\u304d\u306a\u3053\uff09"
+    },
+    "Zunda_mini": {
+        "11": "\u305a\u3093\u3060"
+    },
+    "Zunndamon": {
+        "11": "\u305a\u3093\u3060\u3082\u3093"
+    },
+    "GoodButton": {
         "11": "\u3044\u3044\u306d\uff01\u30dc\u30bf\u30f3"
     }
 }

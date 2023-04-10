@@ -84,6 +84,9 @@
     "Syobon",
     "TV",
     "TongXinZhuangKuang",
+    "TripleKillGray",
+    "TripleKillMaroon",
+    "TripleKillPink",
     "UnionJack",
     "VoidFace",
     "WinkFace",
@@ -103,6 +106,8 @@
     "aiueojyun",
     "amatohfusen",
     "anmaridesuwa",
+    "anoheapin",
+    "anosangurasu",
     "arumikan_grape",
     "arumikan_tea",
     "arumikan_turunoda",
@@ -151,6 +156,7 @@
     "iamcrew",
     "iamimpostar",
     "imnotimpostar",
+    "iyahon",
     "jitome",
     "jitouhyou",
     "kamaboko",
@@ -196,6 +202,10 @@
     "pcngus_V",
     "peron",
     "pien",
+    "pinkuYutsupoiBeishiiYan",
+    "pinkuYutsupoiQinYan",
+    "pinkuYutsupoiXiaoYan",
+    "pinkuYutsupoiuinku",
     "pokan",
     "pokee",
     "rollerjay",
@@ -223,5 +233,5 @@
     "utagaimayu",
     "yameyokka"
   ],
-  "updateComitHash": "1e381cc61495ce03b454f92d0acf4a9388c416fc"
+  "updateComitHash": ""
 }
