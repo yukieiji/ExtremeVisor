@@ -55,6 +55,7 @@
     "MonoEyeLightRed",
     "MonoEyeLightYellow",
     "Nemuri",
+    "NowLoding",
     "Nyoki",
     "Nyun",
     "OhagiA_mini",
@@ -236,7 +237,10 @@
     "turunoda",
     "usbHacker_V",
     "utagaimayu",
-    "yameyokka"
+    "yameyokka",
+    "yugami",
+    "yuru-i",
+    "××"
   ],
-  "updateComitHash": "e2b4e39e08d669dc6707c85416579741c1c6d76c"
+  "updateComitHash": "d0205aec48f22304649a06237dff2a8121171739"
 }
