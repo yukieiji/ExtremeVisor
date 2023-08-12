@@ -1,6 +1,6 @@
 import os
 import json
-from openpyxl import load_workbook
+from pylightxl import readxl
 
 WORKING_DIR = os.path.dirname(os.path.realpath(__file__))
 
@@ -15,34 +15,41 @@ VISOR_DATA_UPDATE_COMIT_KEY = 'updateComitHash'
 
 def stringToJson(filename : str, outputFile : str) -> None:
 
-  wb = load_workbook(filename, read_only = True)
+  wb = readxl(filename)
 
-  stringData = {}
-  for s in wb:
-    rows = s.iter_rows(min_col = 1, min_row = 2, max_col = 17, max_row = None)
-    headers = []
-    for header in s[1]:
-      if header.value:
-        headers.append(header.value)
+  xlsx_data = {}
 
-    for row in rows:
-      name = row[0].value
+  for name in wb.ws_names:
 
-      if not name:
-        continue
+    sheat = wb.ws(name)
+
+    row, col = sheat.size
+
+    # 行を回す
+    for i in range(2, row + 1):
 
       data = {}
 
-      for i, string in enumerate(row[1:]):
-        if string.value:
-          # I hate excel why did I do this to myself
-          data[i] = string.value.replace("\r", "").replace("_x000D_", "").replace("\\n", "\n")
+      # i行目の1列目はキー
+      key = sheat.index(i, 1)
+      if key == "":
+        continue
 
-      if data:
-        stringData[name] = data
+      # i行目j列がデータ、jは2以上であり2が0(英語)である
+      for j in range(2, col + 1):
+          cell_data = sheat.index(i, j)
+
+          if type(cell_data) != str or cell_data == "":
+            continue
+
+          # I hate excel why did I do this to myself
+          data[str(j - 2)] = cell_data.replace("\r", "").replace("_x000D_", "").replace("\\n", "\n")
+
+      if data != {}:
+        xlsx_data[key] = data
 
   with open(outputFile, "w") as f:
-    json.dump(stringData, f, indent=4)
+    json.dump(xlsx_data, f, indent=4)
 
 def update_visor_data()-> None:
 
