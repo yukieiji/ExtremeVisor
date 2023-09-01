@@ -2,6 +2,9 @@
     "lockOn": {
         "11": "\u30ed\u30c3\u30af\u30aa\u30f3\uff01\uff01"
     },
+    "MagicCircle_Animation": {
+        "11": "\u77b3\u306e\u5965\u306e\u305d\u306e\u5965(\u30a2\u30cb\u30e1\u30b7\u30e7\u30fc\u30f3)"
+    },
     "magicCircleVisor": {
         "11": "\u77b3\u306e\u5965\u306e\u305d\u306e\u5965"
     },
