@@ -1,0 +1,31 @@
+{
+  "LeftIdle": false,
+  "Shader": false,
+  "BehindHat": false,
+  "ComitHash": "",
+  "Animation": {
+    "Idle": {
+      "Img": [
+        "ExVSelectFrontImage\\0-2_magiccircle.png",
+        "ExVSelectFrontImage\\3_magiccircle.png",
+        "ExVSelectFrontImage\\4_magiccircle.png",
+        "ExVSelectFrontImage\\5_magiccircle.png",
+        "ExVSelectFrontImage\\6_magiccircle.png",
+        "ExVSelectFrontImage\\7_magiccircle.png",
+        "ExVSelectFrontImage\\8_magiccircle.png",
+        "ExVSelectFrontImage\\9_magiccircle.png",
+        "ExVSelectFrontImage\\10_magiccircle.png",
+        "ExVSelectFrontImage\\11_magiccircle.png",
+        "ExVSelectFrontImage\\12_magiccircle.png",
+        "ExVSelectFrontImage\\13_magiccircle.png",
+        "ExVSelectFrontImage\\14_magiccircle.png",
+        "ExVSelectFrontImage\\15_magiccircle.png",
+        "ExVSelectFrontImage\\16_magiccircle.png"
+      ],
+      "FrameCount": 10,
+      "Type": 0
+    }
+  },
+  "Name": "MagicCircle_Animation",
+  "Author": "yukieiji"
+}
