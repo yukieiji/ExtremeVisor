@@ -464,5 +464,17 @@
     "sakabanbasupisu": {
         "0": "Sacabambaspis",
         "11": "\u30b5\u30ab\u30d0\u30f3\u30d0\u30b9\u30d4\u30b9"
+    },
+    "teitaimu": {
+        "0": "tea time",
+        "11": "\u30c6\u30a3\u30fc\u30bf\u30a4\u30e0"
+    },
+    "miniyotsuchiyan": {
+        "0": "mini_pterosaur",
+        "11": "\u30df\u30cb\u3088\u3063\u3061\u3083\u3093"
+    },
+    "kamereon_hatena": {
+        "0": "Chameleon\uff1f",
+        "11": "\u30ab\u30e1\u30ec\u30aa\u30f3\uff1f"
     }
 }

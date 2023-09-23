@@ -164,6 +164,7 @@
     "jitome",
     "jitouhyou",
     "kamaboko",
+    "kamereon_hatena",
     "kannagi",
     "kenzenketu",
     "kirari",
@@ -184,6 +185,7 @@
     "milk_coffee",
     "milk_rainbow",
     "minidekawaii",
+    "miniyotsuchiyan",
     "mint_maimai",
     "moon_big",
     "moon_mini",
@@ -231,6 +233,7 @@
     "syukkayo1",
     "syukkayo2",
     "tabako",
+    "teitaimu",
     "tentionmax",
     "thinking_V",
     "tinfoil_hat",
@@ -244,5 +247,5 @@
     "yuru-i",
     "××"
   ],
-  "updateComitHash": "5604ba6d6b893543d49446da9ea0bb1532446581"
+  "updateComitHash": ""
 }
