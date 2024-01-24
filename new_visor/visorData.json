@@ -221,6 +221,14 @@
     "saimin_V",
     "sairiumu_V",
     "sakabanbasupisu",
+    "scrap_Dakinagia",
+    "scrap_FaDianZhuangZhi",
+    "scrap_ZhimarenoBiaoShi",
+    "scrap_masukuman",
+    "scrap_oSaLuonaranpu",
+    "scrap_pieronoDi",
+    "scrap_shiyaberu",
+    "scrap_sugoiHuaiZhongDianDeng",
     "seizoniyoku",
     "set",
     "shito",
@@ -248,5 +256,5 @@
     "yuru-i",
     "××"
   ],
-  "updateComitHash": "c837e44186128a18e0680e0390bc233643d9c0b8"
+  "updateComitHash": ""
 }

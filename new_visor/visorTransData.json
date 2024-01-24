@@ -480,5 +480,37 @@
     "KuangtsutaYan": {
         "0": "crazy face",
         "11": "\u72c2\u3063\u305f\u9854"
+    },
+    "scrap_sugoiHuaiZhongDianDeng": {
+        "0": "Pro-flashlight",
+        "11": "\u3059\u3054\u3044\u61d0\u4e2d\u96fb\u706f"
+    },
+    "scrap_ZhimarenoBiaoShi": {
+        "0": "Stop sign",
+        "11": "\u6b62\u307e\u308c\u306e\u6a19\u8b58"
+    },
+    "scrap_shiyaberu": {
+        "0": "Shovel",
+        "11": "\u30b7\u30e3\u30d9\u30eb"
+    },
+    "scrap_masukuman": {
+        "0": "Masked",
+        "11": "\u30de\u30b9\u30af\u30de\u30f3"
+    },
+    "scrap_FaDianZhuangZhi": {
+        "0": "Apparatus",
+        "11": "\u767a\u96fb\u88c5\u7f6e"
+    },
+    "scrap_pieronoDi": {
+        "0": "Clown horn",
+        "11": "\u30d4\u30a8\u30ed\u306e\u7b1b"
+    },
+    "scrap_oSaLuonaranpu": {
+        "0": "Fancy lamp",
+        "11": "\u304a\u6d12\u843d\u306a\u30e9\u30f3\u30d7"
+    },
+    "scrap_Dakinagia": {
+        "0": "Large axle",
+        "11": "\u5927\u304d\u306a\u30ae\u30a2"
     }
 }
