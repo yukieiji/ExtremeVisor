@@ -466,7 +466,7 @@
         "11": "\u30b5\u30ab\u30d0\u30f3\u30d0\u30b9\u30d4\u30b9"
     },
     "teitaimu": {
-        "0": "tea time",
+        "0": "Tea time",
         "11": "\u30c6\u30a3\u30fc\u30bf\u30a4\u30e0"
     },
     "miniyotsuchiyan": {
@@ -512,5 +512,37 @@
     "scrap_Dakinagia": {
         "0": "Large axle",
         "11": "\u5927\u304d\u306a\u30ae\u30a2"
+    },
+    "scrap_ahiruDuiZhang": {
+        "0": "Rubber Ducky",
+        "11": "\u30a2\u30d2\u30eb\u968a\u9577"
+    },
+    "scrap_kagi": {
+        "0": "key",
+        "11": "\u30ab\u30ae"
+    },
+    "scrap_daburushiyotsutogan": {
+        "0": "Double-barrel",
+        "11": "\u30c0\u30d6\u30eb\u30b7\u30e7\u30c3\u30c8\u30ac\u30f3"
+    },
+    "scrap_purezentoXiang": {
+        "0": "Gift Box",
+        "11": "\u30d7\u30ec\u30bc\u30f3\u30c8\u7bb1"
+    },
+    "suneafuri": {
+        "0": "Snare Flea",
+        "11": "\u30b9\u30cd\u30a2\u30d5\u30ea\u30fc"
+    },
+    "scrap_bubukutsushiyon": {
+        "0": "Whoopie-Cushion",
+        "11": "\u30d6\u30fc\u30d6\u30fc\u30af\u30c3\u30b7\u30e7\u30f3"
+    },
+    "scrap_YanZhanghashigo": {
+        "0": "Extenson Ladder",
+        "11": "\u5ef6\u9577\u30cf\u30b7\u30b4"
+    },
+    "scrap_rajikase": {
+        "0": "Boombox",
+        "11": "\u30e9\u30b8\u30ab\u30bb"
     }
 }
